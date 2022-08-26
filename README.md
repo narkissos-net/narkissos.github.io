@@ -1,2 +1,2 @@
-# narkissos.github.io
+# psychologistics.github.io
 GitHub Pages
